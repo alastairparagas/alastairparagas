@@ -1,11 +1,11 @@
-[![Banner Image](https://github.com/alastairparagas/alastairparagas/blob/master/banner.png)](https://www.aparagas.com)
+[![Banner Image](https://github.com/alastairparagas/alastairparagas/blob/master/banner.png)](https://aparagas.com)
 
 Hi, I'm Alastair Paragas! I currently work as an engineer at Apple's Machine Learning Platform and Technology team, under [Apple ML/AI](https://www.apple.com/jobs/us/teams/machine-learning-and-ai.html) in Seattle. I am also a part-time MSCS grad student at Georgia Tech specializing in Machine Learning graduating Fall 2020. You can also visit me at my personal website, [aparagas.com](https://aparagas.com/)!
 
 For some of my past work and internship experiences, catch me around the 'net at:
   * European Organization for Nuclear Research (2017), Geneva, Switzerland - https://cds.cern.ch/record/2280009 - a keyword recommendation and anomaly-detection engine for Zenodo (CERN's public research paper repository)
   * Wolfram Summer School Alumni (2015), Waltham, MA - https://education.wolfram.com/summer/school/alumni/2015/, where I got to build a block-based programming environment, much like Scratch, powered by the Wolfram Language and environment - extra cool that we got mentored by Stephen Wolfram himself!
-  * FIU Honors College, Miami, FL - where I got to build the first course registration system during freshman year(Honors CRS) and the [MyHonors student portal](https://myhonors.fiu.edu/#/login/)!
+  * FIU Honors College, Miami, FL - where I got to build the first course registration system during freshman year (Honors CRS) and the [MyHonors student portal](https://myhonors.fiu.edu/#/login/)!
 
 I mantain some of my [grad school notes here](https://drive.google.com/drive/folders/1L7JyA4RilWfflftdziEMGJXT6njG7W6O), and hoping to finish cataloguing these in due time, with courses ranging from:
   * CS7641 - Machine Learning -  aimed to be a whirlwind tour on all topics related to the field of Machine Learning, which covers all classes of algorithms that perform "better" over time either through training or experience.
